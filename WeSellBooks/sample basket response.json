@@ -1,0 +1,36 @@
+{
+    "item": {
+        "id": 75701772,
+        "asin": "0061964360",
+        "title": "Pride and Prejudice (Teen Classics)",
+        "imageUrl": "https://m.media-amazon.com/images/I/51Uklbvw9aL._SL75_.jpg",
+        "price": 0.5
+    },
+    "basket": {
+        "offerTotal": 0.5,
+        "minimumOfferValue": 5,
+        "items": [
+            {
+                "id": 75701772,
+                "price": 0.5,
+                "title": "Pride and Prejudice (Teen Classics)",
+                "imageUrl": "https://m.media-amazon.com/images/I/51Uklbvw9aL._SL75_.jpg",
+                "asin": "0061964360",
+                "barcode": "9780061964367",
+                "bonusItem": false,
+                "discount": 0,
+                "catalogueProductId": null,
+                "catalogueOptionId": null
+            }
+        ],
+        "discountMessage": {
+            "type": "info",
+            "message": "Please add more items until you reach the minimum offer total of £5.00"
+        },
+        "blanketDiscount": 0,
+        "blanketDiscountMessage": "",
+        "itemDiscountMessage": ""
+    },
+    "logs": [],
+    "price": 0.5
+}
